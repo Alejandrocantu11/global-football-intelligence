@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/
+*.csv
+*.parquet
+jars/
+*.jar
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*secret*
